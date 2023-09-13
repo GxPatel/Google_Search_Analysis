@@ -45,7 +45,7 @@ The Google Search Analysis project is a data-driven exploration of Google search
 
 ## Contact
 
-For any questions or feedback, please contact [goraldpatel158@gmail.com](mailto:goraldpatel158@gmail.com).
+For any questions or feedback, please contact [goraldp@gmail.com](mailto:goraldp@gmail.com).
 
 ## Disclaimer
 
