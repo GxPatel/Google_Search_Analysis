@@ -37,13 +37,6 @@ The Google Search Analysis project is a data-driven exploration of Google search
 3. Run the notebook to generate visualizations and insights.
 4. Interpret the results and draw conclusions.
 
-## Contributing
-
-Contributions to this project are welcome! If you have ideas for improvements or want to add new features, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
