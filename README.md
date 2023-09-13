@@ -1,4 +1,4 @@
-# Google Search Analysis with Python and Google Trends Data
+# Google Search Analysis with Python
 
 ## Overview
 
