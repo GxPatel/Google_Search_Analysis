@@ -30,29 +30,6 @@ The Google Search Analysis project is a data-driven exploration of Google search
 - Helps businesses understand their market competition.
 - Identifies potential gaps and opportunities.
 
-## Getting Started
-
-Follow these steps to get started with the Google Search Analysis project:
-
-1. **Clone the Repository**:
-   ```
-   git clone https://github.com/GxPatel/Google_Search_Analysis.git
-   cd google-search-analysis
-   ```
-
-2. **Install Dependencies**:
-   ```
-   pip install -r requirements.txt
-   ```
-
-3. **Run the Jupyter Notebook**:
-   ```
-   jupyter notebook Google_Search_Analysis.ipynb
-   ```
-
-4. **Explore the Notebook**:
-   Open the provided Jupyter Notebook to see examples and perform your own Google Search Analysis.
-
 ## Usage
 
 1. Define your research goals and questions.
